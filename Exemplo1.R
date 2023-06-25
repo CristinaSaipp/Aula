@@ -2,3 +2,5 @@
 #NOVO 2
 #NOVO 3
 #NOVO 3a
+1 = 38
+23 = 60
